@@ -1,10 +1,17 @@
+<div align="center">
+
 # [ICCAD'25] QUARK: Quantization-Enabled Circuit Sharing for Transformer Acceleration by Exploiting Common Patterns in Nonlinear Operations
 
-[Zhixiong Zhao](https://kishon-zzx.github.io/)*, Haomin Li*, Fangxin Liu, Yuncheng Lu, Zongwu Wang, Tao Yang, Li Jiang, and Haibing Guan
+[Zhixiong Zhao](https://kishon-zzx.github.io/)\*, Haomin Li\*, Fangxin Liu, Yuncheng Lu, Zongwu Wang, Tao Yang, Li Jiang, and Haibing Guan
 
-<div align="center">
-    <a href="https://arxiv.org/abs/2511.06767" target="_blank">
-    <img src="https://img.shields.io/badge/Paper-arXiv-deepgreen" alt="Paper arXiv"></a>
+<br>
+
+<a href="https://arxiv.org/abs/2602.11184" target="_blank">
+<img src="https://img.shields.io/badge/Paper-arXiv-deepgreen" alt="Paper arXiv"></a>
+
+<a href="https://github.com/Kishon-zzx/MoBiE" target="_blank">
+<img src="https://img.shields.io/badge/Code-GitHub-black" alt="Code GitHub"></a>
+
 </div>
 
 ---
