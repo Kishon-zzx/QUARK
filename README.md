@@ -37,13 +37,12 @@
 If you find the code helpful in your research or work, please cite the following paper.
 
 ```
-@misc{zhao2025quarkquantizationenabledcircuitsharing,
-      title={QUARK: Quantization-Enabled Circuit Sharing for Transformer Acceleration by Exploiting Common Patterns in Nonlinear Operations}, 
-      author={Zhixiong Zhao and Haomin Li and Fangxin Liu and Yuncheng Lu and Zongwu Wang and Tao Yang and Li Jiang and Haibing Guan},
-      year={2025},
-      eprint={2511.06767},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2511.06767}, 
-}
+@inproceedings{zhao2025quark,
+    title={QUARK: Quantization-Enabled Circuit Sharing for Transformer Acceleration by Exploiting Common Patterns in Nonlinear Operations},
+    author={Zhao, Zhixiong and Li, Haomin and Liu, Fangxin and Lu, Yuncheng and Wang, Zongwu and Yang, Tao and Jiang, Li and Guan, Haibing},
+    booktitle={2025 IEEE/ACM International Conference On Computer Aided Design (ICCAD)},
+    pages={1--9},
+    year={2025},
+    organization={IEEE}
+  }
 ```
